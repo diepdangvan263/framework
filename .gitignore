@@ -6,3 +6,4 @@ composer.lock
 
 # The developers Playground
 works
+/app/Config
